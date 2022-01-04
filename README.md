@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Moonmoonji
-- 👀 I’m interested in data mining
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on ...
+- 👋 
+- 👀 
 - 📫 How to reach me e-mail to 123jennifer@naver.com 
 
 <!---
