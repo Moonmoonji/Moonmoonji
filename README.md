@@ -1,6 +1,6 @@
 - 👋 
-- 👀 
-- 📫 How to reach me e-mail to 123jennifer@naver.com 
+- 👀 Interested in Deep learning, Anomaly Detection, Fault Detect and Classification
+- 📫 How to reach me e-mail to 123jennifer@korea.ac.kr
 
 <!---
 Moonmoonji/Moonmoonji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
